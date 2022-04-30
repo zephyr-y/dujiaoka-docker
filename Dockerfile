@@ -1,4 +1,4 @@
-FROM webdevops/php-nginx:7.4-alpine
+FROM webhippie/php-nginx:latest-alpine
 
 ENV INSTALL=true
 ENV MODIFY=false
